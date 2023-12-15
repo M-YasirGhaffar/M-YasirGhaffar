@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Yasir</h1>
+<h1 align="center">Konnichiwa, Code Seekers👋!  I'm Yasir</h1>
+<h2 align="center">MERN sailor, Web3 explorer, and aspiring software engineer.💻</h2>
 
 ###
 
@@ -95,8 +96,14 @@
 
 ###
 
+<br clear="both">
+
+
 <div align="center">
   <img height="250" src="https://randommeme-five.vercel.app/"  />
 </div>
 
 ###
+
+<br clear="both">
+
