@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Konnichiwa, Code Seekers👋!  I'm Yasir</h1>
+<h1 align="center">Konnichiwa👋!  I'm Yasir</h1>
 <h2 align="center">MERN sailor, Web3 explorer, and aspiring software engineer.💻</h2>
 
 ###
