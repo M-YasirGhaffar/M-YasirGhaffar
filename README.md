@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">Hi👋!  I'm Yasir!</h1>
-<h2 align="center">MERN sailor, Web3 explorer, and aspiring software engineer.💻</h2>
+<h2 align="center">MERN sailor and aspiring software engineer.💻</h2>
 
 ###
 
