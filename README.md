@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yasir👋</h1>
-<h2 align="center">MERN Stack Developer & Software Engineering Student 💻</h2>
+<h2 align="center"> Software Engineer | MERN Stack Developer 💻</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-yasir-ghaffar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
