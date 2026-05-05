@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Muhammad Yasir Ghaffar</div>
+# <div align="center">Muhammad Yasir Ghaffar</div>
 
 <div align="center">
   
@@ -10,7 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://m-yasir-ghaffar.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://itsyasir.software)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-yasir-ghaffar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-YasirGhaffar)
 
@@ -18,14 +18,13 @@
 
 </div>
 
-## 🧑‍💻 Developer Profile
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358a6ff" width="22" /> Developer Profile
 
 ```yaml
 developer:
   name: "Muhammad Yasir Ghaffar"
-  title: "Software Engineer"
+  title: "Full Stack Engineer"
   education: "Software Engineering @ NUST"
-  status: "Recent Graduate"
   focus: ["MERN Stack", "Full Stack Development", "Modern Web Technologies"]
   mindset: "Building efficient solutions with clean, scalable code"
   availability: "Open to exciting growth opportunities"
@@ -35,26 +34,25 @@ expertise:
   backend: ["Node.js", "Express", "Python", "Django"]
   database: ["MongoDB", "PostgreSQL", "MySQL"]
   tools: ["Git", "Docker", "RESTful APIs", "Microservices"]
-  learning: ["AWS", "GCP", "Firebase", "DevOps", "Kubernetes"]
   
 ```
 
-## 📊 Development Metrics
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2358a6ff" width="22" /> Development Metrics
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-YasirGhaffar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-YasirGhaffar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=400&cache_seconds=86400" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-YasirGhaffar&theme=github-dark-blue&hide_border=true&card_width=400" />
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-YasirGhaffar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=600" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-YasirGhaffar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=600&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
-## ⚡ Technical Arsenal
+## <img src="https://api.iconify.design/lucide:zap.svg?color=%2358a6ff" width="22" /> Technical Arsenal
 
 <div align="center">
 
@@ -77,16 +75,11 @@ expertise:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Currently Learning
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -96,7 +89,7 @@ expertise:
 
 </div>
 
-## 🎓 Professional Journey
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358a6ff" width="22" /> Professional Journey
 
 ```mermaid
 timeline
@@ -110,25 +103,21 @@ timeline
              : MERN Stack Developer Intern
              : 3 months experience
     
-    2024-2025 : 4Loop Automation
-             : Full Stack Software Engineer
-             : 1 year experience
-    
-    2025     : Recent Graduate
-             : Software Engineer
-             : Open for new opportunities
+    2024-Present : 4Loop Automation
+                 : Full Stack Software Engineer
+                 : Currently Working
 ```
 
-## 🏆 World-Class Certifications
+## <img src="https://api.iconify.design/lucide:award.svg?color=%2358a6ff" width="22" /> World-Class Certifications
 
 <div align="center">
 
-| 🎯 **Specialization** | 🏛️ **Institution** | 📅 **Year** | ⭐ **Level** |
-|:--:|:--:|:--:|:--:|
-| **Machine Learning** | Stanford University & DeepLearning.AI | 2024 | Advanced |
-| **Meta Front-End Developer** | Meta | 2023 | Professional |
-| **IBM Full Stack Developer** | IBM | 2024 | Professional |
-| **Advanced React Development** | Meta | 2023 | Advanced |
+| **Specialization** | **Institution** | **Level** |
+|:--:|:--:|:--:|
+| **Machine Learning** | Stanford University & DeepLearning.AI | Advanced |
+| **Meta Front-End Developer** | Meta | Professional |
+| **IBM Full Stack Developer** | IBM | Professional |
+| **The Web Developer Bootcamp** | Udemy (Colt Steele) | Advanced |
 
 </div>
 
@@ -137,41 +126,32 @@ timeline
 [![Stanford ML](https://img.shields.io/badge/Stanford_ML-Andrew_Ng-8B0000?style=for-the-badge&logo=stanford&logoColor=white)](https://coursera.org/verify/specialization/TMMRM5NKPQBC)
 [![Meta Frontend](https://img.shields.io/badge/Meta_Frontend-Professional-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://coursera.org/verify/professional-cert/UV4E9KUH39WS)
 [![IBM Full Stack](https://img.shields.io/badge/IBM_Full_Stack-Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/professional-cert/N4A7YFCFK4ZD)
+[![Udemy Bootcamp](https://img.shields.io/badge/Web_Dev_Bootcamp-Colt_Steele-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-af67659b-4c17-49ff-9395-6322334a873c/)
 
 </div>
 
-## 🚀 Exploration Hub
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2358a6ff" width="22" /> Repositories
 
 <div align="center">
-  
-### 🚀 Explore My Code
 
-```
-┌─────────────────────────┐
-│                         │
-│  💻 Check My Repos ↓   │
-│  🔍 Code & Projects    │
-│  ⚡ Live Demos         │
-│                         │
-└─────────────────────────┘
-```
+The actual work — across frontend, backend, AI, and infrastructure.
 
-**Dive into my development journey:** [**📚 Browse All Repositories**](https://github.com/M-YasirGhaffar?tab=repositories)
+### [Browse Repositories →](https://github.com/M-YasirGhaffar?tab=repositories)
 
 </div>
 
-## 🤝 Let's Connect & Collaborate
+## <img src="https://api.iconify.design/lucide:link-2.svg?color=%2358a6ff" width="22" /> Let's Connect & Collaborate
 
 <div align="center">
 
 **Always excited to discuss:**
-- 🚀 MERN Stack Development  
-- ⚡ React & Next.js Best Practices  
-- 🎯 Modern JavaScript & TypeScript  
-- 📊 Full Stack Project Architecture
+- MERN Stack Development  
+- React & Next.js Best Practices  
+- Modern JavaScript & TypeScript  
+- Full Stack Project Architecture
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-58A6FF?style=for-the-badge)](https://m-yasir-ghaffar.web.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/m-yasir-ghaffar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-58A6FF?style=for-the-badge&logo=About.me&logoColor=white)](https://itsyasir.software)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-yasir-ghaffar/)
 
 </div>
 
